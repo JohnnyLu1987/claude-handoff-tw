@@ -1,0 +1,12 @@
+{
+  "name": "claude-handoff-tw",
+  "version": "1.0.0",
+  "description": "Never lose context between AI coding sessions. Bilingual (Traditional Chinese / English) fork of claude-handoff — paste prompts auto-match your conversation language. Saves handoff files to plan/ in your working directory.",
+  "author": {
+    "name": "Johnny Lu"
+  },
+  "homepage": "https://github.com/JohnnyLu1987/claude-handoff-tw",
+  "repository": "https://github.com/JohnnyLu1987/claude-handoff-tw",
+  "license": "MIT",
+  "keywords": ["handoff", "context", "session", "planning", "productivity", "traditional-chinese", "繁體中文"]
+}
