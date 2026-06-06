@@ -1,5 +1,7 @@
 # claude-handoff-tw
 
+[繁體中文說明](README.zh-TW.md) | English
+
 **Never lose context between AI coding sessions.**
 
 Two skills for Claude Code that capture decisions, failed approaches, measurements, and next steps — so your next session picks up exactly where you left off. Stop wasting 20-40% of each session rediscovering what was already tried.
